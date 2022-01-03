@@ -1,0 +1,66 @@
+*{
+    font-family: 'Changa', sans-serif;
+  }
+  .background{
+      background-image: url(./gif/pink.gif);
+      background-size: cover;
+      ;
+      
+  }
+  .back-1{
+      background-color: antiquewhite;
+      width: 500px;
+      height: 500px;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+      margin-left: auto;
+    margin-right: auto;
+    margin-top: 71px;
+  }
+  .form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eeeee4;
+    width: 400px;
+    margin: 0;
+      
+      height: 400px;
+      padding: 5px;
+      text-align: center;
+      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    }
+  .form input{
+    padding: 13px;
+    margin: 5px;
+    outline: 0;
+    box-sizing: border-box;
+    background: #f2f2f2;
+    border: 1;
+    margin: 0 0 15px;
+   border-radius: 5px;
+    width: 300px;
+    
+  }
+  .text{
+    color: blue;
+  }
+  .button{
+    background-color: darksalmon;
+    
+    outline: 0;
+    width:300px;
+    
+    margin: 0 0 px;
+    padding: 13px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: whitesmoke;
+    
+  }
+  .message{
+    font-size: 14px;
+    margin: 5px;
+  
+  }
